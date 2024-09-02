@@ -1,2 +1,3 @@
 # Calculator
-This is a self-made, small calculator project built using HTML, CSS, and JavaScript. The calculator allows users to perform various arithmetic operations such as addition, subtraction, multiplication, and division.
+This is a self-made calculator project built using HTML, CSS, and JavaScript. The calculator interface is designed with HTML and styled with CSS to create a clean and intuitive layout. JavaScript is used to handle the logic behind the calculator's operations, enabling it to perform basic arithmetic functions such as addition, subtraction, multiplication, and division. The calculator responds to user input by dynamically updating the display with the result of the calculation. This project showcases my skills in web development by combining HTML, CSS, and JavaScript to create a functional and interactive tool.
+
